@@ -1,11 +1,5 @@
 ---
 title: "Israel Cognitive Psychology List (ISCoP) Newsletter November 2021"
-output:
-  html_document:
-    df_print: paged
-editor_options:
-  markdown:
-    wrap: 72
 ---
 
 <style>
