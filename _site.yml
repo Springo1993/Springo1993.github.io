@@ -12,7 +12,7 @@ navbar:
       href: about.html
     - text: "Newsletter"
       icon: fa-newspaper 
-      href: about.html
+      href: newsletter.html
   right:
     - text: "Contact Us"
       icon: fa-envelope-o
