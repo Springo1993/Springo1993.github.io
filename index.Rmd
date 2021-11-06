@@ -1,5 +1,5 @@
 ---
-title: "Welcome to ISCoP Newsletter!"
+title: "Welcome to ISCoP Website!"
 ---
 
-This page will describe the ISCoP newsletter in a few words.
+This page will describe the ISCoP's newsletter in a few words.

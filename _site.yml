@@ -10,11 +10,14 @@ navbar:
     - text: "About ISCoP"
       icon: fa-user 
       href: about.html
+    - text: "Newsletter"
+      icon: fa-newspaper 
+      href: about.html
   right:
     - text: "Contact Us"
       icon: fa-envelope-o
       href: mailto:aviviscop@gmail.com                    # CHANGE HERE 
 output:
   html_document:
-    theme: cosmo
+    theme: lumen
     highlight: textmate

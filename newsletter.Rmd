@@ -1,0 +1,50 @@
+---
+title: "Israel Cognitive Psychology List (ISCoP) Newsletter November 2021"
+output:
+  html_document:
+    df_print: paged
+editor_options:
+  markdown:
+    wrap: 72
+---
+
+<style>
+
+.rtl { direction:rtl;}
+
+</style>
+
+<div class="rtl">
+#### תוכן
+
+1. דברי פתיחה
+2. כנסים קרובים בישראל
+3. כנסים קרובים בחו"ל
+4. הצעות למלגות, משרות תקן, פוסט-דוקטורט ודוקטורט
+5. קול קורא להגשת מאמרים לגיליונות מיוחדים בתחומי הקוגניציה
+\
+\
+\
+\
+
+#### 1. דברי פתיחה
+ 
+אנו שמחים לשלוח את דף מידע לחודש נובמבר 2021 לרשימת התפוצה של פסיכולוגים\\ות קוגניטיביים, נוירופסיכולוגים\\ות, ומדענים\\ות קוגניטיביים בישראל. כידוע, בעקבות המצב, כנסים רבים מתבטלים ומשתנים כל הזמן. חשוב לוודא ולברר בעצמכם\\ן את הפרטים הספציפיים לגבי כל הודעה המופיעה בדף המידע ולעקוב אחר השינויים אצל המארגנים והמפרסמים עצמם. שימו לב: למרות שבחרנו לשמור על החלוקה של 'כנסים בארץ' ו-'כנסים בחו"ל', בפועל חלק מהכנסים הפכו למעשה לכנסים וירטואליים (online). 
+אנו מודים לכל החברים אשר עוזרים בהפצתה של רשימת התפוצה שלנו ולכל החברים\\ות אשר מעבירים לנו מידע רלוונטי לפרסום בדף זה. אנו מבקשים להזכיר: על מנת שלא להעמיס על תיבות המייל של החברים ברשימה אנו מוציאים את דף המידע אחת לחודש (באמצע כל חודש) ונמנעים מלפרסם דברים נוספים בין דפי המידע. אי-לכך אנו מבקשים לשלוח לנו מידע זמן מה מראש על מנת שהוא יהיה רלוונטי גם בעת פרסום דף המידע הבא. כל המעוניין להפיץ מידע רלוונטי בעזרת דפי המידע הללו ו\\או להציע הצעות ורעיונות לשיפור והתפתחות יכול ליצור קשר עם אביב אביטן aviviscop@gmail.com. על מנת להסיר או להוסיף שם מרשימת התפוצה אנא שלחו דואר לדזירה מלול desiree@bgu.ac.il .
+
+</div>
+
+\
+**Please let us know…** \
+We would like to offer our readership the opportunity to become involved by contributing memorandums and awards of interest to the newsletter. If you would like to let us know of an important award a member of the community received or if you would like to contribute a memorandum on past members of our community, please send an email to aviviscop@gmail.com and we will gladly consider adding the information to the newsletter.
+
+
+
+
+
+
+
+
+
+
+
