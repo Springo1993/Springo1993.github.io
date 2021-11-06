@@ -2,4 +2,4 @@
 title: "Welcome to ISCoP Newsletter!"
 ---
 
-You're up and running!
+This page will describe the ISCoP newsletter in a few words.

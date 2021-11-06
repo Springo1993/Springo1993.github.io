@@ -2,4 +2,4 @@
 title: "About Us"
 ---
 
-ISCoP's first issue was published in 2006.
+ISCoP's first issue was published in 200?.
