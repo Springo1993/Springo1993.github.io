@@ -11,7 +11,7 @@
 
 
 
-<title>About Us</title>
+<title>About ISCoP</title>
 
 <script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -282,11 +282,34 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">About Us</h1>
+<h1 class="title toc-ignore"><b>About ISCoP</b></h1>
 
 </div>
 
 
+<style>
+h1 {
+    position: relative;
+    font-size: 30px;
+    z-index: 1;
+    overflow: hidden;
+    text-align: center;
+    font-family: Times New Roman;
+}
+h1:before, h1:after {
+    position: absolute;
+    top: 51%;
+    overflow: hidden;
+    width: 50%;
+    height: 1px;
+    content: '\a0';
+    background-color: darkred;
+}
+h1:before {
+    margin-left: -50%;
+    text-align: left;
+}
+</style>
 <p>ISCoP’s first issue was published in 200?.</p>
 
 
